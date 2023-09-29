@@ -3,6 +3,7 @@
 FundMe is a decentralized application (dApp) built using Foundry, a smart contract development toolchain. FundMe allows users to raise and withdraw funds from the smart contract.
 
 # Getting Started
+##  Requirements
 
 Make sure you have intalled:
 
@@ -14,6 +15,7 @@ Make sure you have intalled:
 
 ## Quickstart
 ```
+git clone https://github.com/reri101/foundry-fund-me
 cd foundry-fund-me-f23
 forge build
 ```
